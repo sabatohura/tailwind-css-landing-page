@@ -73,3 +73,12 @@ body {
 .open .hamburger-middle {
     display: none;
 }
+
+#menu a:hover {
+    background-color: hsl(12, 88%, 69%);
+    padding: 10px 20px;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    letter-spacing: 2px;
+}

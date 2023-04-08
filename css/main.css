@@ -953,6 +953,15 @@ body {
   display: none;
 }
 
+#menu a:hover {
+  background-color: hsl(12, 88%, 69%);
+  padding: 10px 20px;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  letter-spacing: 2px;
+}
+
 .hover\:bg-brightRedLight:hover {
   --tw-bg-opacity: 1;
   background-color: hsl(12 88% 69% / var(--tw-bg-opacity));
